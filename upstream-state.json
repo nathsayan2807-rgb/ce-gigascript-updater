@@ -1,8 +1,8 @@
 {
   "upstream_url": "https://gist.githubusercontent.com/JeiHyun/8ec8b56c4f0006ee3aa0ea002a05a269/raw/LL%20Gigascript.user.js",
-  "upstream_version": "26.61.0",
-  "upstream_sha256": "efcf5df13b0b250bf5195c201b1996f4601ecfc1a77849428cb58727a54eb204",
-  "checked_at_utc": "2026-10-25T19:43:34.006724+00:00",
+  "upstream_version": "26.61.1",
+  "upstream_sha256": "0ccd26426ea4de4bdbdf63aa5c5704ed800e6e5155fdd39f0ac9da4f4394e19a",
+  "checked_at_utc": "2026-10-28T16:08:30.720297+00:00",
   "generated_file": "dist/LL-Gigascript.user.js",
   "customization_policy": "authorized customizations only; cartel-ID restriction retained"
 }
